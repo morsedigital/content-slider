@@ -1,6 +1,6 @@
 {
   "name": "@morsedigital/content-slider",
-  "version": "1.0.0-beta1",
+  "version": "1.0.0-beta2",
   "description": "A module to add content carousel at mobile",
   "main": "index.js",
   "repository": "git@github.com:morsedigital/content-slider.git",
